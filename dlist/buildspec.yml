@@ -11,4 +11,4 @@ artifacts:
   files: "**/*"
   base-directory: my-app/dist
   discard-paths: yes
-  name: compiled.zip
+  name: compiled.zip 
